@@ -30,7 +30,7 @@ export function Navigation() {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <span className="font-mono text-xl font-bold tracking-tight text-text-primary">
-            ESTIMATE
+            ESTIMATEPROS
           </span>
           <span className="font-mono text-xl font-bold tracking-tight text-accent-primary">
             .ai
@@ -50,8 +50,8 @@ export function Navigation() {
           ))}
         </div>
 
-        {/* Desktop CTA */}
-        <div className="hidden md:block">
+        {/* Desktop CTAs */}
+        <div className="hidden items-center gap-4 md:flex">
           <Link
             href="/#hero"
             className="inline-flex items-center justify-center rounded-sm bg-accent-primary px-6 py-3 font-mono text-sm font-semibold uppercase tracking-[0.05em] text-bg-primary transition-all duration-200 ease-out hover:scale-[1.02] hover:shadow-[0_0_40px_rgba(0,255,136,0.3)]"
@@ -95,7 +95,7 @@ export function Navigation() {
               {link.label}
             </Link>
           ))}
-          <div className="mt-4 border-t border-border-default pt-4">
+          <div className="mt-4 flex flex-col gap-3 border-t border-border-default pt-4">
             <Link
               href="/#hero"
               className="flex w-full items-center justify-center rounded-sm bg-accent-primary px-6 py-3 font-mono text-sm font-semibold uppercase tracking-[0.05em] text-bg-primary transition-all duration-200 ease-out hover:shadow-[0_0_40px_rgba(0,255,136,0.3)]"

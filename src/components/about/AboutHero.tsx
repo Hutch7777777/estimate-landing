@@ -25,7 +25,7 @@ export function AboutHero() {
         {/* Subhead */}
         <FadeIn delay={0.2}>
           <p className="mx-auto mt-6 max-w-2xl font-body text-lg leading-relaxed text-text-secondary md:text-xl">
-            Estimate.ai isn&apos;t another tech company trying to
+            EstimatePros.ai isn&apos;t another tech company trying to
             &ldquo;disrupt&rdquo; construction. It&apos;s a tool built by
             someone who&apos;s actually done the work.
           </p>

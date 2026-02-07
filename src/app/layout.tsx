@@ -24,7 +24,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Estimate.ai | AI Estimating for Exterior Contractors",
+  title: "EstimatePros.ai | AI Estimating for Exterior Contractors",
   description:
     "AI estimating built by exterior contractors, for exterior contractors. Upload your construction documents, get a complete material list and estimate in minutes.",
   keywords: [
@@ -36,18 +36,18 @@ export const metadata: Metadata = {
     "material takeoff",
     "construction AI",
   ],
-  authors: [{ name: "Estimate.ai" }],
+  authors: [{ name: "EstimatePros.ai" }],
   openGraph: {
-    title: "Estimate.ai | AI Estimating for Exterior Contractors",
+    title: "EstimatePros.ai | AI Estimating for Exterior Contractors",
     description:
       "AI estimating built by exterior contractors, for exterior contractors. Upload your construction documents, get a complete material list and estimate in minutes.",
     type: "website",
     locale: "en_US",
-    siteName: "Estimate.ai",
+    siteName: "EstimatePros.ai",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Estimate.ai | AI Estimating for Exterior Contractors",
+    title: "EstimatePros.ai | AI Estimating for Exterior Contractors",
     description:
       "AI estimating built by exterior contractors, for exterior contractors. Upload your construction documents, get a complete material list and estimate in minutes.",
   },

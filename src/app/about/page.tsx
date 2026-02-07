@@ -7,9 +7,9 @@ import { CompanyValues } from "@/components/about/CompanyValues";
 import { AboutCTA } from "@/components/about/AboutCTA";
 
 export const metadata: Metadata = {
-  title: "About | Estimate.ai",
+  title: "About | EstimatePros.ai",
   description:
-    "Built by a contractor, for contractors. Learn about the story behind Estimate.ai and our mission to simplify exterior estimating.",
+    "Built by a contractor, for contractors. Learn about the story behind EstimatePros.ai and our mission to simplify exterior estimating.",
 };
 
 export default function AboutPage() {

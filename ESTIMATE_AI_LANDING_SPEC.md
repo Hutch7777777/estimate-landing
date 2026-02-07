@@ -1,4 +1,4 @@
-# ESTIMATE.AI LANDING PAGE SPECIFICATION
+# ESTIMATEPROS.AI LANDING PAGE SPECIFICATION
 ## Complete Design & Development Guide
 
 ---
@@ -6,7 +6,7 @@
 # PART 1: BRAND & MESSAGING
 
 ## Brand Identity
-- **Name:** Estimate.ai
+- **Name:** EstimatePros.ai
 - **Tagline:** "3 days to 3 minutes."
 - **Secondary:** "Your expertise. Encoded."
 - **Voice:** Confident, direct, technical but accessible. Speaks to tradespeople, not tech bros.
@@ -18,9 +18,9 @@
 - **Their pain:** Spending DAYS on takeoffs, losing bids because they can't turn quotes fast enough
 
 ## Core Value Proposition
-**Before Estimate.ai:** Takeoffs take 2-3 days. Manual measurements. Spreadsheet hell. Miss bids because you can't quote fast enough.
+**Before EstimatePros.ai:** Takeoffs take 2-3 days. Manual measurements. Spreadsheet hell. Miss bids because you can't quote fast enough.
 
-**After Estimate.ai:** Upload a HOVER PDF, get a complete takeoff in minutes. Price it, send it, win it.
+**After EstimatePros.ai:** Upload a HOVER PDF, get a complete takeoff in minutes. Price it, send it, win it.
 
 ## Key Claims (all must be defensible)
 1. **"3 days to 3 minutes"** - Primary claim, the hook
@@ -31,7 +31,7 @@
 
 ## Competitive Positioning
 - Blueprint Pro AI = service-based, multi-trade, enterprise
-- Estimate.ai = software for exterior specialists, YOUR tool, YOUR pricing
+- EstimatePros.ai = software for exterior specialists, YOUR tool, YOUR pricing
 
 ---
 
@@ -232,7 +232,7 @@ Layout: Flex column, value on top
 
 ## Section 1: Navigation
 ```
-Logo: ESTIMATE.ai
+Logo: ESTIMATEPROS.ai
 Links: How It Works | Features | Pricing | Contact
 CTA: Get Free Demo
 ```
@@ -290,7 +290,7 @@ pricing every line item. Three days later, you finally send the quote.
 By then, your competitor already won the job.
 ```
 
-**Visual:** Split screen showing "The Old Way" vs "The Estimate.ai Way"
+**Visual:** Split screen showing "The Old Way" vs "The EstimatePros.ai Way"
 - Old: Calendar showing 3 days crossed out, spreadsheet chaos
 - New: Simple flow diagram, 3 minutes, done
 
@@ -354,7 +354,7 @@ Built for exterior. Nothing else.
 
 **Subhead:**
 ```
-This isn't generic construction software. Estimate.ai is purpose-built 
+This isn't generic construction software. EstimatePros.ai is purpose-built 
 for siding, roofing, windows, and gutters.
 ```
 
@@ -399,7 +399,7 @@ We only do exteriors. That's the point.
 Generic takeoff software tries to do everything—framing, electrical, 
 plumbing, HVAC. They're a mile wide and an inch deep.
 
-Estimate.ai goes deep on what you actually do: James Hardie specs, 
+EstimatePros.ai goes deep on what you actually do: James Hardie specs, 
 LP SmartSide waste factors, GAF shingle calculations, window rough 
 openings, gutter runs. The details that matter for exterior work.
 ```
@@ -424,7 +424,7 @@ Stop measuring. Start closing.
 
 **Subhead:**
 ```
-See Estimate.ai run a takeoff on YOUR project. Upload your HOVER 
+See EstimatePros.ai run a takeoff on YOUR project. Upload your HOVER 
 PDF, we'll do the rest. No commitment, no credit card.
 ```
 
@@ -437,7 +437,7 @@ Free demo includes a complete takeoff of your actual project.
 
 ## Section 9: Footer
 ```
-Logo: ESTIMATE.ai
+Logo: ESTIMATEPROS.ai
 
 Columns:
 - Product: How It Works, Features, Pricing, Roadmap
@@ -645,7 +645,7 @@ Give Claude Code these instructions in sequence:
 **Message 1:**
 ```
 Read this entire spec document first. This is the design system and copy 
-for the Estimate.ai landing page. Confirm you understand the:
+for the EstimatePros.ai landing page. Confirm you understand the:
 1. Color palette
 2. Typography system  
 3. Component patterns

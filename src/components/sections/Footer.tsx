@@ -10,7 +10,7 @@ const footerLinks = {
       { label: "How It Works", href: "/#how-it-works" },
       { label: "Features", href: "/#features" },
       { label: "Pricing", href: "/pricing" },
-      { label: "Roadmap", href: "#" },
+      { label: "Get Started", href: "/onboarding" },
     ],
   },
   company: {
@@ -45,7 +45,7 @@ export function Footer() {
             {/* Logo */}
             <Link href="/" className="inline-flex items-center">
               <span className="font-mono text-xl font-bold tracking-tight text-text-primary">
-                ESTIMATE
+                ESTIMATEPROS
               </span>
               <span className="font-mono text-xl font-bold tracking-tight text-accent-primary">
                 .ai
@@ -97,7 +97,7 @@ export function Footer() {
         {/* Bottom Row */}
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border-default pt-8 sm:flex-row">
           <p className="font-body text-sm text-text-muted">
-            &copy; {new Date().getFullYear()} Estimate.ai. All rights
+            &copy; {new Date().getFullYear()} EstimatePros.ai. All rights
             reserved.
           </p>
 

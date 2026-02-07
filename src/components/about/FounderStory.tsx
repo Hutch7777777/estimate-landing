@@ -28,14 +28,14 @@ export function FounderStory() {
                 Anthony Hutchinson
               </h2>
               <p className="mt-1 font-mono text-sm uppercase tracking-wider text-accent-primary">
-                Founder, Estimate.ai
+                Founder, EstimatePros.ai
               </p>
             </FadeIn>
 
             <FadeIn delay={0.2}>
               <div className="mt-6 space-y-4 font-body text-base leading-relaxed text-text-secondary md:text-lg">
                 <p>
-                  Hello, my name is Anthony—founder of Estimate.ai.
+                  Hello, my name is Anthony—founder of EstimatePros.ai.
                 </p>
                 <p>
                   Over the past year, I&apos;ve been learning everything I

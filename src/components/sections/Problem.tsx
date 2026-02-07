@@ -99,7 +99,7 @@ export function Problem() {
             </div>
           </FadeIn>
 
-          {/* The Estimate.ai Way */}
+          {/* The EstimatePros.ai Way */}
           <FadeIn delay={0.4}>
             <div className="relative rounded-md border border-border-accent bg-bg-primary p-6 lg:p-8">
               {/* Cyan accent line */}
@@ -110,7 +110,7 @@ export function Problem() {
                   <CheckCircle2 className="h-5 w-5 text-accent-primary" />
                 </div>
                 <h3 className="font-display text-xl font-semibold text-text-primary">
-                  The Estimate.ai Way
+                  The EstimatePros.ai Way
                 </h3>
               </div>
 

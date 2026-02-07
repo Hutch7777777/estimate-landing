@@ -39,7 +39,7 @@ export function FinalCTA() {
         {/* Subhead */}
         <FadeIn delay={0.2}>
           <p className="mx-auto mt-6 max-w-2xl font-body text-lg leading-relaxed text-text-secondary md:text-xl">
-            See Estimate.ai run a takeoff on YOUR project. Upload your plans,
+            See EstimatePros.ai run a takeoff on YOUR project. Upload your plans,
             we&apos;ll do the rest. No commitment, no credit card.
           </p>
         </FadeIn>

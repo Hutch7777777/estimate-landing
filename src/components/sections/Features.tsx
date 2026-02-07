@@ -68,7 +68,7 @@ export function Features() {
         {/* Subhead */}
         <FadeIn delay={0.2}>
           <p className="mt-6 max-w-3xl font-body text-lg leading-relaxed text-text-secondary md:text-xl">
-            This isn&apos;t generic construction software. Estimate.ai is
+            This isn&apos;t generic construction software. EstimatePros.ai is
             purpose-built for siding, roofing, windows, and gutters.
           </p>
         </FadeIn>

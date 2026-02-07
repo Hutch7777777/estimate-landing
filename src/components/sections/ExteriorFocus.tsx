@@ -85,7 +85,7 @@ export function ExteriorFocus() {
                   deep.
                 </p>
                 <p>
-                  Estimate.ai goes deep on what you actually do:{" "}
+                  EstimatePros.ai goes deep on what you actually do:{" "}
                   <span className="text-text-primary">James Hardie specs</span>,{" "}
                   <span className="text-text-primary">LP SmartSide waste factors</span>,{" "}
                   <span className="text-text-primary">GAF shingle calculations</span>,{" "}

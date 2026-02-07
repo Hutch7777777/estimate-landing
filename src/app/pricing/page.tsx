@@ -8,7 +8,7 @@ import { PricingFAQ } from "@/components/pricing/PricingFAQ";
 import { PricingCTA } from "@/components/pricing/PricingCTA";
 
 export const metadata: Metadata = {
-  title: "Pricing | Estimate.ai",
+  title: "Pricing | EstimatePros.ai",
   description:
     "Simple, transparent pricing for AI-powered takeoffs. Plans for repair & replace contractors and new construction teams.",
 };
