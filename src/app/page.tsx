@@ -5,6 +5,7 @@ import { HowItWorks } from "@/components/sections/HowItWorks";
 import { Testimonial } from "@/components/sections/Testimonial";
 import { Features } from "@/components/sections/Features";
 import { ExteriorFocus } from "@/components/sections/ExteriorFocus";
+import { NewsletterSection } from "@/components/sections/NewsletterSection";
 import { FinalCTA } from "@/components/sections/FinalCTA";
 import { Footer } from "@/components/sections/Footer";
 
@@ -19,6 +20,7 @@ export default function Home() {
         <Testimonial />
         <Features />
         <ExteriorFocus />
+        <NewsletterSection />
         <FinalCTA />
       </main>
       <Footer />
